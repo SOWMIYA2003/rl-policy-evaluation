@@ -72,9 +72,11 @@ else:
 ### Policy 1 :
 ![op](./a1.png)
 ![op](./a2.png)
+![OP](./AQ1.png)
 ### Policy 2 :
 ![op](./b1.png)
 ![op](./b2.png)
+![OP](./AQ2.png)
 ### Comparison :
 ![op](./a11.png)
 ### Conclusion : 
