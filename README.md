@@ -75,6 +75,8 @@ else:
 ### Policy 2 :
 ![op](./b1.png)
 ![op](./b2.png)
+### Comparison :
+![op](./a11.png)
 ### Conclusion : 
 ![op](./a3.png)
 
